@@ -41,7 +41,7 @@ export function CreateModal({ closeModal }: ModalProps){
     useEffect(() => {
         if(!isSuccess) return 
         closeModal();
-    }, [closeModal, isSuccess])
+    }, [isSuccess])
 
     return(
         <div className="modal-overlay">
