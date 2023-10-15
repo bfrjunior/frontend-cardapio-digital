@@ -1,3 +1,37 @@
+# Cardápio Digital - Aplicação Frontend
+
+Este projeto é um simples simples protótipo de um Cardápio Digital desenvolvido durante o tutorial da https://github.com/Fernanda-Kipper/frontend-cardapio-digital A aplicação foi desenvolvida usando React, Typescript e React Query.
+
+![Alt text](public/menu.PNG)
+
+
+## 🚀 Começando
+
+Primeiro, você deve clonar o projeto na sua máquina, para isso você pode colar o seguinte comando em seu terminal.
+
+```
+git clone
+https://github.com/bfrjunior/frontend-cardapio-digital
+
+cd frontend-cardapio-digital
+```
+Para instalar as dependências, execute o seguinte comando:
+```
+npm install
+```
+
+Por fim, para executar o projeto basta rodar o seguinte:
+```
+npm run dev
+```
+
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
